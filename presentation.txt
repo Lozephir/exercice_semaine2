@@ -1,2 +1,3 @@
 Bonjour mon surnom Github est Lozephir.
 Je me suis mis à la programmation il y a plusieurs années et j'aimerai maintenant travailler sur des projets plus conséquents.
+Les cours d'OpenClassroom m'aide beaucoup pour cela et ce que je découvre avec le cours sur Git ouvre d'autres horizons.
